@@ -1,5 +1,5 @@
 
-**`Desenvolvedor`**
+**`Developer`**
 
 ### Languages ​​and Technologies
 
